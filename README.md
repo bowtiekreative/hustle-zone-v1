@@ -4,7 +4,7 @@
 
 ## 📊 What's Inside
 
-**`hustle_zone_rss_feeds.csv`** — A comprehensive spreadsheet of **395+ RSS feeds** organized by category:
+**`hustle_zone_rss_feeds.csv`** — A comprehensive spreadsheet of **448+ RSS feeds** organized by category:
 
 | Category | Count | Highlights |
 |----------|:-----:|------------|
@@ -12,6 +12,10 @@
 | **Black Entertainment** | 15+ | BET, VIBE, EBONY, Global Grind, Uproxx, EARMILK |
 | **Gossip + Celebrity** | 35+ | **The Shade Room**, **Hollywood Unlocked**, **Bossip**, TMZ, Page Six, Us Weekly, OK!, Radar, Lainey |
 | **Gossip YouTubers** | 10+ | Tasha K (UnWine), TS Madison, Say Cheese, Breakfast Club, The Morning Hustle |
+| **Street/Ghetto Blogs** | 15+ | Straight From The A, Concrete Loop, All Hip Hop Scoop, Necole Bitchie, Roommates, The Neighborhood Talk |
+| **Lowbrow Trashy** | 15+ | WorldStar Uncut, VLADTV, No Jumper, StupidVideos, Sandra Rose, ThisIs50, BME Impact |
+| **Ghetto Blogs Raw** | 15+ | TSR Raw, Hollywood Unlocked Uncensored, Bossip Raw, YBF, Dirty Glove, DatPiff, Philly Blog |
+| **Funny Black Humor** | 15+ | The Onion, Cheezburger, Know Your Meme, Bored Panda Black Twitter, Laugh Factory, Druski, Funny Marco |
 | **Hip Hop** | 20+ | XXL, The Source, WorldStar, HotNewHipHop, Rap-Up |
 | **Hip Hop Magazines** | 15+ | VIBE, Word Up!, Right On!, Rap Pages, Murder Dog, Complex, HYPEBEAST, Genius |
 | **Underground Hip Hop** | 20+ | Dead End Hip Hop, Grown Up Rap, Obscure Sound, Sphere of Hip-Hop, Big Noise Radio |
